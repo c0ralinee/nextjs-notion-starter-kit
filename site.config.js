@@ -8,8 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: "coraline's personal site",
-  domain: 'https://ripple-blossom-59e.notion.site/c0742ad84e9f4509ae5d1b5d0a027972',
-  // https://ripple-blossom-59e.notion.site/Co-s-Blog-a70321a892c24d9ca05f0c51b80b9934
+  domain: 'https://ripple-blossom-59e.notion.site/Co-s-Blog-a70321a892c24d9ca05f0c51b80b9934',
   // https://www.notion.so/Co-s-Blog-a70321a892c24d9ca05f0c51b80b9934
   author: 'Coraline',
 
