@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  Bilibili: '是co鸭',
+  Bilibili: '水硕日记',
   NetEaseMusic: 'coooraline',
   Ins: 'coral1nee',
 
